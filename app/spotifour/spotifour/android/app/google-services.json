@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100168795401",
+    "firebase_url": "https://iot-speaker-e27ae-default-rtdb.firebaseio.com",
+    "project_id": "iot-speaker-e27ae",
+    "storage_bucket": "iot-speaker-e27ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100168795401:android:7ef3eedf2494bc72583fd8",
+        "android_client_info": {
+          "package_name": "com.example.spotifour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlNuhvAFVVmum7AW5AgdYkOprZezeSUGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
